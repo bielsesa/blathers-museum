@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/blathers-museum/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/blathers-museum/static/js/main.942b41e2.chunk.js",
-    "main.js.map": "/blathers-museum/static/js/main.942b41e2.chunk.js.map",
+    "main.js": "/blathers-museum/static/js/main.f8d9283c.chunk.js",
+    "main.js.map": "/blathers-museum/static/js/main.f8d9283c.chunk.js.map",
     "runtime-main.js": "/blathers-museum/static/js/runtime-main.a9832eb6.js",
     "runtime-main.js.map": "/blathers-museum/static/js/runtime-main.a9832eb6.js.map",
-    "static/js/2.cd18326b.chunk.js": "/blathers-museum/static/js/2.cd18326b.chunk.js",
-    "static/js/2.cd18326b.chunk.js.map": "/blathers-museum/static/js/2.cd18326b.chunk.js.map",
+    "static/js/2.ddd8d516.chunk.js": "/blathers-museum/static/js/2.ddd8d516.chunk.js",
+    "static/js/2.ddd8d516.chunk.js.map": "/blathers-museum/static/js/2.ddd8d516.chunk.js.map",
     "static/js/3.58e16056.chunk.js": "/blathers-museum/static/js/3.58e16056.chunk.js",
     "static/js/3.58e16056.chunk.js.map": "/blathers-museum/static/js/3.58e16056.chunk.js.map",
     "index.html": "/blathers-museum/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/blathers-museum/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.cd18326b.chunk.js.LICENSE.txt": "/blathers-museum/static/js/2.cd18326b.chunk.js.LICENSE.txt"
+    "static/js/2.ddd8d516.chunk.js.LICENSE.txt": "/blathers-museum/static/js/2.ddd8d516.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9832eb6.js",
-    "static/js/2.cd18326b.chunk.js",
+    "static/js/2.ddd8d516.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.942b41e2.chunk.js"
+    "static/js/main.f8d9283c.chunk.js"
   ]
 }
