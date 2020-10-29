@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/blathers-museum/static/css/main.a7de9049.chunk.css",
-    "main.js": "/blathers-museum/static/js/main.8a0d4fba.chunk.js",
-    "main.js.map": "/blathers-museum/static/js/main.8a0d4fba.chunk.js.map",
-    "runtime-main.js": "/blathers-museum/static/js/runtime-main.09d3a544.js",
-    "runtime-main.js.map": "/blathers-museum/static/js/runtime-main.09d3a544.js.map",
-    "static/js/2.c7ef25ac.chunk.js": "/blathers-museum/static/js/2.c7ef25ac.chunk.js",
-    "static/js/2.c7ef25ac.chunk.js.map": "/blathers-museum/static/js/2.c7ef25ac.chunk.js.map",
-    "static/js/3.1156ddbd.chunk.js": "/blathers-museum/static/js/3.1156ddbd.chunk.js",
-    "static/js/3.1156ddbd.chunk.js.map": "/blathers-museum/static/js/3.1156ddbd.chunk.js.map",
+    "main.css": "/blathers-museum/static/css/main.104612a9.chunk.css",
+    "main.js": "/blathers-museum/static/js/main.49e276b5.chunk.js",
+    "main.js.map": "/blathers-museum/static/js/main.49e276b5.chunk.js.map",
+    "runtime-main.js": "/blathers-museum/static/js/runtime-main.113292a5.js",
+    "runtime-main.js.map": "/blathers-museum/static/js/runtime-main.113292a5.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/blathers-museum/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.de8e70e5.chunk.js": "/blathers-museum/static/js/2.de8e70e5.chunk.js",
+    "static/js/2.de8e70e5.chunk.js.map": "/blathers-museum/static/js/2.de8e70e5.chunk.js.map",
+    "static/js/3.7b14e1ff.chunk.js": "/blathers-museum/static/js/3.7b14e1ff.chunk.js",
+    "static/js/3.7b14e1ff.chunk.js.map": "/blathers-museum/static/js/3.7b14e1ff.chunk.js.map",
     "index.html": "/blathers-museum/index.html",
-    "static/css/main.a7de9049.chunk.css.map": "/blathers-museum/static/css/main.a7de9049.chunk.css.map",
-    "static/js/2.c7ef25ac.chunk.js.LICENSE.txt": "/blathers-museum/static/js/2.c7ef25ac.chunk.js.LICENSE.txt"
+    "static/css/2.20aa2d7b.chunk.css.map": "/blathers-museum/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.104612a9.chunk.css.map": "/blathers-museum/static/css/main.104612a9.chunk.css.map",
+    "static/js/2.de8e70e5.chunk.js.LICENSE.txt": "/blathers-museum/static/js/2.de8e70e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.09d3a544.js",
-    "static/js/2.c7ef25ac.chunk.js",
-    "static/css/main.a7de9049.chunk.css",
-    "static/js/main.8a0d4fba.chunk.js"
+    "static/js/runtime-main.113292a5.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.de8e70e5.chunk.js",
+    "static/css/main.104612a9.chunk.css",
+    "static/js/main.49e276b5.chunk.js"
   ]
 }
